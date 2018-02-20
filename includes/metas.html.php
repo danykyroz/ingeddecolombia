@@ -1,4 +1,4 @@
-<title><?php echo $title?$title:"inged de colombia" ?></title>
+<title><?php echo $title?$title:"ingeddecolombia" ?></title>
 <!-- Stylesheets -->
 <!-- bootstrap v3.3.6 css -->
 <link href="css/bootstrap.css" rel="stylesheet">

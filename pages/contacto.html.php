@@ -14,7 +14,7 @@
         </div>
         <div class="pull-right">
             <ul class="bread-crumb clearfix">
-                <li><a href="index.php">Inicio</a></li>
+                <li><a href="/">Inicio</a></li>
                 <li>Contacto</li>
             </ul>
         </div>
